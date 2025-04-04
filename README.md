@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Always improving my skills and learning new technologies and frameworks.<br>🧑‍💻 Working as Full-Stack developer since 2023<br>☁️ "Anything you can imagine, you can code"</p>
+<p align="left">💻 Always improving my skills and learning new technologies and frameworks.<br>🧑‍💻 Working as Full-Stack developer since 2023.<br>☁️ "Anything you can imagine, you can code"</p>
 
 ###
 
